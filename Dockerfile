@@ -1,3 +1,3 @@
-FROM wordpress;latest
+FROM wordpress:latest
 
 EXPOSE 80
